@@ -1,0 +1,25 @@
+{
+  "name": "aviary",
+  "version": "0.0.1",
+  "description": "System monitor that uses dependency mapping to propogate status effects and give controlled and automatic notifications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RefugeSystems/aviary.git"
+  },
+  "keywords": [
+    "lcars",
+    "monitor",
+    "system",
+    "system-monitor"
+  ],
+  "author": "aetherwalker@refugesystems.net",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RefugeSystems/aviary/issues"
+  },
+  "homepage": "https://github.com/RefugeSystems/aviary#readme"
+}

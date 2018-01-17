@@ -57,3 +57,14 @@ typings/
 # dotenv environment variables file
 .env
 
+# IDE Files
+.project
+
+# Project specific ignores
+library/conf/instance.json
+
+# Development Testing Files
+ideas
+settings.json
+test.js
+scratch.js
