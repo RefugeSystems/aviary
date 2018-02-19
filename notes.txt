@@ -1,0 +1,1 @@
+SmartHome Control: https://www.npmjs.com/package/tplink-smarthome-api
